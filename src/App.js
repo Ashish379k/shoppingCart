@@ -26,7 +26,7 @@ export default class App extends Component {
                   },
                   {
                     name: "Headphone",
-                    price: 20,
+                    price: 20000,
                     id: 1,
                     url: "/Images/headphone.jpg"
                   },
